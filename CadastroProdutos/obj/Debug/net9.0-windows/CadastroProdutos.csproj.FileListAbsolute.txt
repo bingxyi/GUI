@@ -18,3 +18,4 @@ C:\Users\rafael.bitu\Documents\aula c#\GUI\CadastroProdutos\obj\Debug\net9.0-win
 C:\Users\rafael.bitu\Documents\aula c#\GUI\CadastroProdutos\obj\Debug\net9.0-windows\CadastroProdutos.pdb
 C:\Users\rafael.bitu\Documents\aula c#\GUI\CadastroProdutos\obj\Debug\net9.0-windows\CadastroProdutos.genruntimeconfig.cache
 C:\Users\rafael.bitu\Documents\aula c#\GUI\CadastroProdutos\obj\Debug\net9.0-windows\ref\CadastroProdutos.dll
+C:\Users\rafael.bitu\Documents\aula c#\GUI\CadastroProdutos\obj\Debug\net9.0-windows\CadastroProdutos.sourcelink.json
